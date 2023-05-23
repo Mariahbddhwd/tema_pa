@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1684744886 source:c:\users\maria\onedrive\desktop\tema_final\d.in.c
+
+1684746580 source:c:\users\maria\onedrive\desktop\tema_final\tema3\echipa.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"echipa.h"
+
+1684746580 c:\users\maria\onedrive\desktop\tema_final\tema3\echipa.h
+
+1684746667 source:c:\users\maria\onedrive\desktop\tema_final\tema3\main.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	"echipa.h"
+
